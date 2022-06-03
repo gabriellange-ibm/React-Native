@@ -1,0 +1,6 @@
+module Pods_apresentacao_apresentacaoTests {
+  umbrella header "Pods-apresentacao-apresentacaoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
